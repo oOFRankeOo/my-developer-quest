@@ -9,4 +9,4 @@ def fibonacci(n: int) -> list[int]:
 
 if __name__ == "__main__":
     so_phan_tu = 10
-    print(f"Dãy Fibonacci ({so_phan_tu} số đầu tiên): {fibonacci(so_phan_tu)}")
+    print(f"Dãy Fibonacci ({so_phan_tu} số đầu tiên): 
