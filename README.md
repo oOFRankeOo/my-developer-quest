@@ -8,5 +8,5 @@ def fibonacci(n: int) -> list[int]:
     return seq[:n]
 
 if __name__ == "__main__":
-    so_phan_tu = 10
+  
     print(f"Dãy Fibonacci ({so_phan_tu} 
