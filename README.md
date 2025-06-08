@@ -4,7 +4,7 @@ def fibonacci(n: int) -> list[int]:
         raise ValueError("n phải ≥ 1")
     seq = [0, 1]
     while len(seq) < n:
-        seq.append(seq[-1] + seq[-2])
+        seq.append(seq[-1] + s
     return seq[:n]
 
 if __name__ == "__main__":
