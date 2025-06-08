@@ -1,7 +1,7 @@
 def fibonacci(n: int) -> list[int]:
     """Trả về dãy Fibonacci dài n số (n ≥ 1)."""
     if n <= 0:
-        raise ValueError("n phải ≥ 1")
+        raise ValueError("n
     seq = [0, 1]
     while len(seq) < n:
         seq.append(seq[-1] + s
