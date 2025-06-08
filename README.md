@@ -8,4 +8,4 @@ def fibonacci(n: int) -> list[int]:
 
 if __name__ == "__main__":
   
-    print(f"Dãy Fibonacci ({so_phan_tu} 
+    print(f"Dãy Fibonacci ({so_phan_tu}
