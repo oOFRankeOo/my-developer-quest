@@ -1,5 +1,5 @@
 def fibonacci(n: int) -> list[int]:
-    """Trả về dãy Fibonacci dài n số (n ≥ 1)."""
+    """Trả về dãy Fibonacci dài 
     if n <= 0:
         raise ValueError("n
     seq = [0, 1]
